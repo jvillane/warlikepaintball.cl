@@ -2287,7 +2287,7 @@ h2,
 
 h3,
 .h3 {
-    font-size: 45px;
+    font-size: 32px;
     line-height: 1.1;
     font-family: 'Cabin', sans-serif;
     text-transform: uppercase;
@@ -2297,7 +2297,7 @@ h3,
 
 h4,
 .h4 {
-    font-size: 28px;
+    font-size: 25px;
     line-height: 1;
     #text-transform: uppercase;
     font-family: 'Cabin', sans-serif;
